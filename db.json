@@ -1,59 +1,53 @@
 {
-  "books": [
+  "admins": [
     {
       "id":1,
-      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-      "book_name": "Harry Potter and the Philosopher's Stone",
-      "author": "J. K. Rowling",
-      "genre": "fiction",
-      "edition": "2021",
-      "publisher": "Bloomsbury",
-      "cost": 1299,
-      "borrowed": false
-    },
-    {  
-      "id":2,
-      "image_url": "https://is5-ssl.mzstatic.com/image/thumb/BG3rKYXaPe9KkpZOZUjj_w/740x415.webp",
-      "book_name": "Little americs",
-      "author": "J. K. Rowling",
-      "genre": "Drama",
-      "edition": "2018",
-      "publisher": "Bloomsbury",
-      "cost": 1000,
-      "borrowed": false
+      "email" : "admin@stockbroker.com",
+      "password" : "admin123"
+      
+    }
+  ],
+  "users": [
+    {
+      "id":1,
+      "username" : "user1",
+      "email" : "user1@gmail.com",
+      "password" : "user1122"
+      
+    }
+  ],
+  "companies":[
+    {
+      "id" : 1,
+      "company_logo": "https://logolook.net/wp-content/uploads/2021/11/HDFC-Bank-Logo.png",
+      "company_name": "HDFC Bank",
+      "company_type": "Bank",
+      "stock_exchange": "NSE",
+      "total_shares": 50000,
+      "cost_per_share": 4210,
+      "price_action": 12
     },
     {
-      "id":3,
-      "image_url": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/4909/474909-h",
-      "book_name": "Game Of Thrones",
-      "author": "J. K. Rowling",
-      "genre": "fiction",
-      "edition": "2019",
-      "publisher": "Bloomsbury",
-      "cost": 2000,
-      "borrowed": false
-    },
+      "id" : 2,
+      "company_logo": "https://www.jetspot.in/wp-content/uploads/2018/03/reliance-logo.jpg",
+      "company_name": "Reliance Industries",
+      "company_type": "Oil",
+      "stock_exchange": "BSE",
+      "total_shares": 20000,
+      "cost_per_share": 2132,
+      "price_action": 4
+    }
+  ],
+  "bought":[
     {
-      "id":4,
-      "image_url": "https://is5-ssl.mzstatic.com/image/thumb/lgskq6n1xkUI5DOyA5tWWQ/738x416.webp",
-      "book_name": "Will Smith Release Bio pic",
-      "author": "Friends",
-      "genre": "fiction",
-      "edition": "2020",
-      "publisher": "Bloomsbury",
-      "cost": 3000,
-      "borrowed": false
-    },
-    {
-      "id":5,
-      "image_url": "https://is3-ssl.mzstatic.com/image/thumb/EuF6BWsgBeic_Ap2qeAGBQ/738x416.webp",
-      "book_name": "Echo3",
-      "author": "J. K. Rowling",
-      "genre": "fiction",
-      "edition": "2021",
-      "publisher": "Bloomsbury",
-      "cost": 4000,
-      "borrowed": false
+      "id" : 1,
+      "company_logo": "https://www.jetspot.in/wp-content/uploads/2018/03/reliance-logo.jpg",
+      "company_name": "Reliance Industries",
+      "company_type": "Oil",
+      "stock_exchange": "BSE",
+      "total_shares": 20000,
+      "cost_per_share": 2132,
+      "price_action": 4
     }
   ]
  
