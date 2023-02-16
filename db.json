@@ -1,0 +1,60 @@
+{
+  "books": [
+    {
+      "id":1,
+      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+      "book_name": "Harry Potter and the Philosopher's Stone",
+      "author": "J. K. Rowling",
+      "genre": "fiction",
+      "edition": "2021",
+      "publisher": "Bloomsbury",
+      "cost": 1299,
+      "borrowed": false
+    },
+    {  
+      "id":2,
+      "image_url": "https://is5-ssl.mzstatic.com/image/thumb/BG3rKYXaPe9KkpZOZUjj_w/740x415.webp",
+      "book_name": "Little americs",
+      "author": "J. K. Rowling",
+      "genre": "Drama",
+      "edition": "2018",
+      "publisher": "Bloomsbury",
+      "cost": 1000,
+      "borrowed": false
+    },
+    {
+      "id":3,
+      "image_url": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/4909/474909-h",
+      "book_name": "Game Of Thrones",
+      "author": "J. K. Rowling",
+      "genre": "fiction",
+      "edition": "2019",
+      "publisher": "Bloomsbury",
+      "cost": 2000,
+      "borrowed": false
+    },
+    {
+      "id":4,
+      "image_url": "https://is5-ssl.mzstatic.com/image/thumb/lgskq6n1xkUI5DOyA5tWWQ/738x416.webp",
+      "book_name": "Will Smith Release Bio pic",
+      "author": "Friends",
+      "genre": "fiction",
+      "edition": "2020",
+      "publisher": "Bloomsbury",
+      "cost": 3000,
+      "borrowed": false
+    },
+    {
+      "id":5,
+      "image_url": "https://is3-ssl.mzstatic.com/image/thumb/EuF6BWsgBeic_Ap2qeAGBQ/738x416.webp",
+      "book_name": "Echo3",
+      "author": "J. K. Rowling",
+      "genre": "fiction",
+      "edition": "2021",
+      "publisher": "Bloomsbury",
+      "cost": 4000,
+      "borrowed": false
+    }
+  ]
+ 
+}
